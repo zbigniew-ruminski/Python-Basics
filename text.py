@@ -1,1 +1,1 @@
-print("tekst")
+print("tekst sie pojawia")
