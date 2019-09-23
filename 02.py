@@ -1,1 +1,1 @@
-print("First line \n Second line")
+print("First line n Second line")
